@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/ProjetoFinal_Pomodoro.uf2'
+elf = 'build/ProjetoFinal_Pomodoro.elf'
